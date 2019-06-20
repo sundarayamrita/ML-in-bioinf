@@ -1,4 +1,4 @@
-# Implementation of clustering gene expression data
+# Implementation of Research Paper on Soft Computing in Bioinformatics
 
 ID - 2000090
-I aim to implement the research paper "Clustering gene expression data using ADSOM".
+I aim to implement the research paper "Analysis of eukaryotic promoter sequences".
